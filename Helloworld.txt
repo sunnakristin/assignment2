@@ -1,4 +1,3 @@
-HALLO WORLD
+Hallo world
 Hallo heimur
-HOLA MUNDO
-Hej
+Hola mundo
